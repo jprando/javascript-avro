@@ -4,7 +4,7 @@ Teste e exemplo de utilizacao de avro + javascript.
 
 ## Arquivos na pasta ./dist
 
-Arquivo original `./src/data/book.json` do tipo JSON com tamanho 71 bytes.
+Arquivo original `./src/data/book.json` do tipo JSON com tamanho de 71 bytes.
 
 A lista abaixo exibe informacoes referente a outras opcoes utilizadas para
 compactar o arquivo original.
