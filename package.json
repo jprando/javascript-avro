@@ -1,13 +1,19 @@
 {
-  "name": "teste-avro",
+  "name": "javascript-avro",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "exemplo usando avro no javascript",
+  "main": "./src/main.js",
   "scripts": {
     "start": "node ./src/main.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "javascript",
+    "avro"
+  ],
+  "author": {
+    "name": "Jeudi Prando",
+    "email": "jeudiprando@gmail.com"
+  },
   "license": "ISC",
   "dependencies": {
     "avsc": "^5.7.7"
