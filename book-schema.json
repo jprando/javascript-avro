@@ -1,0 +1,9 @@
+{
+  "type": "record",
+  "name": "Book",
+  "fields": [
+    { "name": "title", "type": "string" },
+    { "name": "author", "type": "string" },
+    { "name": "publicationYear", "type": "int" }
+  ]
+}
